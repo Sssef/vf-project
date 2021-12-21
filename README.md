@@ -1,1 +1,1 @@
-# vaadin-fusion-project
+# vf-project
